@@ -7,7 +7,7 @@ from PIL import Image
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
 # Path of image
-main_path = r'C:\Users\dell\Desktop\Image to text\qu12.png'
+main_path = r'qoute4.jpg'
 
 def get_string(pic_path):
     # Reading picture with opencv
