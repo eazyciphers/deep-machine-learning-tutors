@@ -1,0 +1,2 @@
+Character recognition needs some software tool requirements which supports python execution tutorials and projects.
+Here we have explained with basic requirements that is windows 10 and jupyter notebooks..
