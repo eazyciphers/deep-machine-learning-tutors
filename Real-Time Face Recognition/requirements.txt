@@ -1,0 +1,9 @@
+Real-Time Face recognition model of implementation makes active of our front camera to catch the real time applications.So, Make sure before run the code. 
+No external software installation is required for executing the code.
+
+The First thing to be started to run your model is python installation. If you are ready with it's path setting and execution.
+
+Then don't wait Go Ahead!! To start 
+Follow those steps of installing libraries into your local system. You can use any platform for runnning the face_recognition model the only main important need is your camera and 
+Python platform.
+Here we have used windows 10 as part of software requirements.
